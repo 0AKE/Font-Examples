@@ -1,0 +1,71 @@
+.aero{
+    font-family: Arial;
+}
+
+.tah{
+    font-family: Tahoma;
+}
+
+.mon{
+    font-family: Montserrat;
+}
+
+.ver{
+    font-family: Verdana;
+}
+
+.pas{
+    font-family: Pacifico;
+}
+
+.cal{
+    font-family: Calibri;
+}
+
+.hel{
+    font-family: Helvetica;
+}
+
+.coms{
+    font-family: Comic-Sans;
+}
+
+.fut{
+    font-family: Futura;
+}
+
+.rob{
+    font-family: Roboto;
+}
+
+/* Addition of Custom fonts */
+
+@font-face {
+    font-family: Montserrat;
+    src: url(fonts/montserrat/Montserrat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: Pacifico;
+    src: url(fonts/pacifico/Pacifico-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: Calibri;
+    src: url(fonts/calibri/calibri-regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: Comic-Sans;
+    src: url(fonts/comic_sans/COMIC.TTF) format('truetype');
+}
+
+@font-face {
+    font-family: Futura;
+    src: url(fonts/futura/futura_book_font.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/roboto/Roboto-Regular.ttf) format('truetype');
+}
